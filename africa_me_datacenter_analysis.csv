@@ -1,0 +1,54 @@
+Country,Country_Code,Region,Data_Centers,Sub_Region,Population_M,DC_per_Million
+Israel,IL,Africa & Middle East,61,Middle East,9.5,6.42
+UAE,AE,Africa & Middle East,58,Middle East,11.1,5.23
+South Africa,ZA,Africa & Middle East,56,Africa,64.7,0.87
+Saudi Arabia,SA,Africa & Middle East,51,Middle East,34.6,1.47
+Nigeria,NG,Africa & Middle East,21,Africa,237.5,0.09
+Kenya,KE,Africa & Middle East,20,Africa,57.5,0.35
+Iran,IR,Africa & Middle East,20,Middle East,92.4,0.22
+Oman,OM,Africa & Middle East,15,Middle East,5.5,2.73
+Egypt,EG,Africa & Middle East,13,Africa,118.4,0.11
+Morocco,MA,Africa & Middle East,12,Africa,38.4,0.31
+Tanzania,TZ,Africa & Middle East,11,Africa,70.5,0.16
+Qatar,QA,Africa & Middle East,11,Middle East,3.1,3.55
+Mauritius,MU,Africa & Middle East,10,Africa,1.3,7.69
+Ghana,GH,Africa & Middle East,8,Africa,35.1,0.23
+Bahrain,BH,Africa & Middle East,8,Middle East,1.6,5.0
+Angola,AO,Africa & Middle East,8,Africa,39.0,0.21
+Jordan,JO,Africa & Middle East,8,Middle East,11.4,0.7
+Senegal,SN,Africa & Middle East,7,Africa,18.9,0.37
+Ivory Coast,CI,Africa & Middle East,6,Africa,32.7,0.18
+Mozambique,MZ,Africa & Middle East,6,Africa,35.6,0.17
+Libya,LY,Africa & Middle East,6,Africa,7.5,0.8
+Algeria,DZ,Africa & Middle East,6,Africa,47.4,0.13
+Reunion,RE,Africa & Middle East,5,Africa,0.88,5.68
+Kuwait,KW,Africa & Middle East,5,Middle East,5.1,0.98
+Ethiopia,ET,Africa & Middle East,5,Africa,135.5,0.04
+Botswana,BW,Africa & Middle East,5,Africa,2.6,1.92
+DRC,CD,Africa & Middle East,4,Africa,112.8,0.04
+Djibouti,DJ,Africa & Middle East,4,Africa,1.2,3.33
+Tunisia,TN,Africa & Middle East,4,Africa,12.3,0.33
+Uganda,UG,Africa & Middle East,4,Africa,51.4,0.08
+Rwanda,RW,Africa & Middle East,3,Africa,14.6,0.21
+Zambia,ZM,Africa & Middle East,3,Africa,21.9,0.14
+Madagascar,MG,Africa & Middle East,3,Africa,32.7,0.09
+Zimbabwe,ZW,Africa & Middle East,3,Africa,17.0,0.18
+Lebanon,LB,Africa & Middle East,2,Middle East,5.4,0.37
+Namibia,NA,Africa & Middle East,2,Africa,3.1,0.65
+Cameroon,CM,Africa & Middle East,2,Africa,29.9,0.07
+Togo,TG,Africa & Middle East,2,Africa,9.7,0.21
+Lesotho,LS,Africa & Middle East,2,Africa,2.4,0.83
+Malawi,MW,Africa & Middle East,1,Africa,22.2,0.05
+Republic of the Congo,CG,Africa & Middle East,1,Africa,6.5,0.15
+Iraq,IQ,Africa & Middle East,1,Middle East,47.0,0.02
+Burkina Faso,BF,Africa & Middle East,1,Africa,24.1,0.04
+Guinea,GN,Africa & Middle East,1,Africa,15.1,0.07
+Palestine,PS,Africa & Middle East,1,Middle East,5.6,0.18
+Gabon,GA,Africa & Middle East,1,Africa,2.6,0.38
+Mali,ML,Africa & Middle East,1,Africa,25.2,0.04
+Mayotte,YT,Africa & Middle East,1,Africa,0.34,2.94
+Equatorial Guinea,GQ,Africa & Middle East,1,Africa,1.9,0.53
+Eswatini,SZ,Africa & Middle East,1,Africa,1.3,0.77
+Sudan,SD,Africa & Middle East,1,Africa,51.7,0.02
+Seychelles,SC,Africa & Middle East,1,Africa,0.13,7.69
+Somalia,SO,Africa & Middle East,1,Africa,19.7,0.05
