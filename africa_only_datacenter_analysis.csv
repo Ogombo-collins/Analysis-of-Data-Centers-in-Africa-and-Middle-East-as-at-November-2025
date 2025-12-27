@@ -1,0 +1,42 @@
+Country,Country_Code,Region,Data_Centers,Sub_Region,Population_M,DC_per_Million,African_Region
+South Africa,ZA,Africa & Middle East,56,Africa,64.7,0.87,Southern Africa
+Nigeria,NG,Africa & Middle East,21,Africa,237.5,0.09,West Africa
+Kenya,KE,Africa & Middle East,20,Africa,57.5,0.35,East Africa
+Egypt,EG,Africa & Middle East,13,Africa,118.4,0.11,North Africa
+Morocco,MA,Africa & Middle East,12,Africa,38.4,0.31,North Africa
+Tanzania,TZ,Africa & Middle East,11,Africa,70.5,0.16,East Africa
+Mauritius,MU,Africa & Middle East,10,Africa,1.3,7.69,Southern Africa
+Ghana,GH,Africa & Middle East,8,Africa,35.1,0.23,West Africa
+Angola,AO,Africa & Middle East,8,Africa,39.0,0.21,Southern Africa
+Senegal,SN,Africa & Middle East,7,Africa,18.9,0.37,West Africa
+Ivory Coast,CI,Africa & Middle East,6,Africa,32.7,0.18,West Africa
+Mozambique,MZ,Africa & Middle East,6,Africa,35.6,0.17,Southern Africa
+Libya,LY,Africa & Middle East,6,Africa,7.5,0.8,North Africa
+Algeria,DZ,Africa & Middle East,6,Africa,47.4,0.13,North Africa
+Reunion,RE,Africa & Middle East,5,Africa,0.88,5.68,Southern Africa
+Ethiopia,ET,Africa & Middle East,5,Africa,135.5,0.04,East Africa
+Botswana,BW,Africa & Middle East,5,Africa,2.6,1.92,Southern Africa
+DRC,CD,Africa & Middle East,4,Africa,112.8,0.04,Central Africa
+Djibouti,DJ,Africa & Middle East,4,Africa,1.2,3.33,East Africa
+Tunisia,TN,Africa & Middle East,4,Africa,12.3,0.33,North Africa
+Uganda,UG,Africa & Middle East,4,Africa,51.4,0.08,East Africa
+Rwanda,RW,Africa & Middle East,3,Africa,14.6,0.21,East Africa
+Zambia,ZM,Africa & Middle East,3,Africa,21.9,0.14,Southern Africa
+Madagascar,MG,Africa & Middle East,3,Africa,32.7,0.09,Southern Africa
+Zimbabwe,ZW,Africa & Middle East,3,Africa,17.0,0.18,Southern Africa
+Namibia,NA,Africa & Middle East,2,Africa,3.1,0.65,Southern Africa
+Cameroon,CM,Africa & Middle East,2,Africa,29.9,0.07,Central Africa
+Togo,TG,Africa & Middle East,2,Africa,9.7,0.21,West Africa
+Lesotho,LS,Africa & Middle East,2,Africa,2.4,0.83,Southern Africa
+Malawi,MW,Africa & Middle East,1,Africa,22.2,0.05,Southern Africa
+Republic of the Congo,CG,Africa & Middle East,1,Africa,6.5,0.15,Central Africa
+Burkina Faso,BF,Africa & Middle East,1,Africa,24.1,0.04,West Africa
+Guinea,GN,Africa & Middle East,1,Africa,15.1,0.07,West Africa
+Gabon,GA,Africa & Middle East,1,Africa,2.6,0.38,Central Africa
+Mali,ML,Africa & Middle East,1,Africa,25.2,0.04,West Africa
+Mayotte,YT,Africa & Middle East,1,Africa,0.34,2.94,Southern Africa
+Equatorial Guinea,GQ,Africa & Middle East,1,Africa,1.9,0.53,Central Africa
+Eswatini,SZ,Africa & Middle East,1,Africa,1.3,0.77,Southern Africa
+Sudan,SD,Africa & Middle East,1,Africa,51.7,0.02,East Africa
+Seychelles,SC,Africa & Middle East,1,Africa,0.13,7.69,Southern Africa
+Somalia,SO,Africa & Middle East,1,Africa,19.7,0.05,East Africa
